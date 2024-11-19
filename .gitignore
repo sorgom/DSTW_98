@@ -1,0 +1,77 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# premake / build
+Makefile
+build
+bin
+obj
+lib
+.vs
+*.vcxproj.*
+*.vcxproj
+*.sln
+
+# *.make
+
+# gcov
+gcov
+*.gcov
+*.gcda
+*.gcno
+
+# testing
+report.txt
+
+# IDE
+.vscode
+
+# python
+__pycache__
+*.pyc
+
+# temporary
+tmp.*
+tmp_*
+
+# vscode
+tempCodeRunnerFile.py
+
+# bullseye
+html
+*.cov
+_*.*
+
+# depracated gen
+transitions_*.md
+*_states.md
